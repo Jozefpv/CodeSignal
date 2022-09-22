@@ -53,6 +53,10 @@ public class TheJourneyBegins {
 	    } 
 	    return value;
 	}
+	
+	public void nuevaFuncion() {
+		
+	}
 
 
 }
